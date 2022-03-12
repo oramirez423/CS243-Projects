@@ -1,0 +1,52 @@
+commit 0dcafb877c0695db5eed52347ba6f7fc98e67e9e
+Author: Omar L Ramirez Chio <olr8350@cs.rit.edu>
+Date:   Thu Feb 24 23:07:17 2022 -0500
+
+    Fixed style and documentation guidelines (macro were not capitalized)
+
+commit 52bd37e62b5f7b983821e10ff77bfb80c5da3ffd
+Author: Omar L Ramirez Chio <olr8350@cs.rit.edu>
+Date:   Thu Feb 24 22:21:04 2022 -0500
+
+    Reduced redundancy when calculating teams happiness in infinite and
+    print mode
+
+commit 58961397c7cb9cd778ea54100377efdd3e4288e5
+Author: Omar L Ramirez Chio <olr8350@cs.rit.edu>
+Date:   Thu Feb 24 19:32:53 2022 -0500
+
+    deleted a couple of unecessary things
+
+commit e9a79a760d4e1b2d9b36ac0eac6f0b46bc60c44e
+Author: Omar L Ramirez Chio <olr8350@cs.rit.edu>
+Date:   Thu Feb 24 18:31:54 2022 -0500
+
+    Created .h file, fixed output differences to try
+
+commit ec85f913e89b2c8810d11951d698bac07dc78be9
+Author: Omar L Ramirez Chio <olr8350@cs.rit.edu>
+Date:   Wed Feb 23 00:11:02 2022 -0500
+
+    Infinite and finite mode are complete, outputs should be correct.
+
+commit cdcbdd7ce28354cdf17e0389d17e299222b20ea5
+Author: Omar L Ramirez Chio <olr8350@cs.rit.edu>
+Date:   Mon Feb 21 23:47:06 2022 -0500
+
+    Population can now move if they are unhappy.. I believe there's no
+    mistakes.
+    Cleaned up code
+
+commit 7657ac495495e6c9d6e4eaf614bf14aabf58bab0
+Author: Omar L Ramirez Chio <olr8350@cs.rit.edu>
+Date:   Sun Feb 20 02:47:56 2022 -0500
+
+    created random layout of grid, mostly done with the happiness measure
+    from each of the cells
+
+commit 554e883a10d537fd4942d456adb3edfcec67b3a5
+Author: Omar L Ramirez Chio <olr8350@cs.rit.edu>
+Date:   Thu Feb 17 22:52:52 2022 -0500
+
+    inital commit, command line processing and input error handling is
+    completed

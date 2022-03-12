@@ -1,0 +1,65 @@
+Assignment Report
+Assignment name is: Brace-topia
+
+My name is: 	Omar Ramirez
+My login ID is:	olr8350
+
+[insert your answers after the question and add more lines as needed.]
+
+[PLEASE MAKE YOUR ANSWERS SHORT AND TO THE POINT. BULLET POINTS ARE GOOD.]
+
+============= PROGRAM STATUS ==============
+
+What is the status of the program?
+Does it: put an X inside the [] for your answer
+	[] crashes when?
+	[] infinite loop when it should not?
+	[] only works in printed mode?
+	[x] work fine?
+	[] only implemented these options: [please list them]
+	[] other? Explain.
+
+
+How does your move strategy work? Describe briefly in English.
+
+First vacant location
+
+
+============= SIMULATION ANALYSIS ==============
+
+What did you find most revealing about the simulation?
+
+-very involved
+-sorta complex algorithm
+
+
+============= GENERAL PROJECT FEEDBACK ==============
+
+What did I learn?
+
+-getopt (command line processing)
+-output (cursor)
+-array stuff
+
+What was easy about this assignment?
+
+-creating arrays
+-passing args
+-program error output
+
+What gave you problems or troubles?
+
+-getopt
+-curses
+-algorithm (happiness, move) 
+
+What should the instructor do to improve this assignment?
+
+-More in-class examples on getopt and curses if possible.
+-Very time consuming to self-teach.
+
+What would you have liked to do in this assignment?
+
+-Implement the optimal location to max cumulative city happiness.   
+-I would also like to do well on it :)
+
